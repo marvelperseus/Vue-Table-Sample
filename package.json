@@ -21,7 +21,7 @@
     "array-intersection": "^0.1.2",
     "clone": "^2.1.1",
     "debounce": "^1.1",
-    "merge": "^1.2.0",
+    "merge": "^2.1.1",
     "vue": ">=2.0.0",
     "vue-pagination-2": "^1.6",
     "vue-resource": "^0.9.0"
